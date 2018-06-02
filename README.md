@@ -1,4 +1,5 @@
 Project objectives:
+
 Output data from a newspaper database to answer the following questions:
 q1 - What are the most popular three articles of all time?
 q2 - Who are the most popular article authors of all time?
