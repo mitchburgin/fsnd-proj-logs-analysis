@@ -29,4 +29,4 @@ Logs Analysis analyses the data from a database that can be downloaded and initi
 
 Running the reports:
 
-Once setup is done, run: python proj-logs-analysis.py fsnd-proj-logs-analysis
+Once setup is done, run: python proj-logs-analysis.py
