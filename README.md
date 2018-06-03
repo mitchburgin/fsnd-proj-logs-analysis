@@ -11,9 +11,9 @@ Print out data from a database of news articles that answers the following quest
 
 To start on this project, you'll need database software (provided by a Linux virtual machine) and the data to analyze.
 
-Install [VirtualBox 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
-Install [Vagrant](https://www.vagrantup.com/downloads.html)
-Download the [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip)
+1. Install [VirtualBox 5.1](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
+2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
+3. Download the [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip)
 
 Start the virtual machine:
 1. `cd vagrant` to open the vagrant subdirectory
