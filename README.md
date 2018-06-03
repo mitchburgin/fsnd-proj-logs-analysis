@@ -1,13 +1,13 @@
-#**Proj-Log-Analysis**#
+# **Proj-Log-Analysis**
 
-##**Project objectives:**##
+## **Project objectives:**
 
 Print out data from a database of news articles that answers the following questions:
 1. What are the most popular three articles of all time?
 2. Who are the most popular article authors of all time?
 3. On which days did more than 1% of requests lead to errors?
 
-##**Setup:**##
+## **Setup:**
 
 To start on this project, you'll need database software (provided by a Linux virtual machine) and the data to analyze.
 
@@ -29,6 +29,6 @@ This project analyses the data from a database of news articles that can be down
 5. Create views in the database: `psql -d news -f views.sql`
 
 
-##**Running the reports:**##
+## **Running the reports:**
 
 Once setup is done, run: `python proj-logs-analysis.py`
